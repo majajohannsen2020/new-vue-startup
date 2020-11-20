@@ -88,6 +88,7 @@ button.choose-image {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+   border-radius: 40px 40px ;
 
 }
 
@@ -118,6 +119,20 @@ input[type="file"] {
   max-width: 350px;
   width: 100%;
   padding: 1em 0;
+}
+
+button {
+      background-color: #c6a9a9;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   border-radius: 40px 40px ;
 }
 
 </style>
